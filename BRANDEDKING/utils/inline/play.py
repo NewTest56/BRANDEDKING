@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/WOLVERINE_67",
+                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/Paapuji789",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/HOME_FPARADISE",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/+_qPchBV5z4VjMjM1",
             ),
         ],
         [
@@ -79,7 +79,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                  text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/New Test56/BRANDEDKING",
             ),
             InlineKeyboardButton(
-                text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/HOME_FPARADISE",
+                text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+_qPchBV5z4VjMjM1",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -98,10 +98,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/WOLVERINE_67",
+                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/Paapuji789",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/HOME_FPARADISE",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/+_qPchBV5z4VjMjM1",
             ),
         ],
         [
@@ -109,7 +109,7 @@ def stream_markup(_, chat_id):
                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/New Test56/BRANDEDKING",
             ),
             InlineKeyboardButton(
-                text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/HOME_FPARADISE",
+                text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+_qPchBV5z4VjMjM1",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
